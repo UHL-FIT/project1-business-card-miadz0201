@@ -2,17 +2,10 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="app">
-        <option name="selectionMode" value="DROPDOWN" />
-        <DialogSelection />
-      </SelectionState>
-<<<<<<< HEAD
       <SelectionState runConfigName="BusinessCardPreview">
         <option name="selectionMode" value="DROPDOWN" />
         <DialogSelection />
       </SelectionState>
-=======
->>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
     </selectionStates>
   </component>
 </project>
