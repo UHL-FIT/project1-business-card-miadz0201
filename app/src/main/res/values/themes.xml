@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.BusinessCard" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Tuhoc2" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
 </resources>

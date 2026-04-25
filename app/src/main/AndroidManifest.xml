@@ -10,12 +10,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.BusinessCard">
+=======
+        android:theme="@style/Theme.Tuhoc2">
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.BusinessCard">
+=======
+            android:theme="@style/Theme.Tuhoc2">
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "BusinessCard"
+=======
+rootProject.name = "tuhoc2"
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
 include(":app")
  

@@ -4,7 +4,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.businesscard"
+=======
+    namespace = "com.example.tuhoc2"
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +16,11 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.businesscard"
+=======
+        applicationId = "com.example.tuhoc2"
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
         minSdk = 24
         targetSdk = 36
         versionCode = 1

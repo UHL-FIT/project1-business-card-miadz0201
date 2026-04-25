@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">BusinessCard</string>
+=======
+    <string name="app_name">tuhoc2</string>
+>>>>>>> 89cfdf393463c0650940fd18793111376c03cbbc
 </resources>
